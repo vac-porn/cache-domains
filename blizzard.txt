@@ -10,3 +10,4 @@ edge.blizzard.top.comcast.net
 level3.blizzard.com
 nydus.battle.net
 rogue.blizzard.com.edgesuite.net
+*.blizzard.com.edgesuite.net
