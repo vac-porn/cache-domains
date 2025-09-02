@@ -12,3 +12,11 @@ dl.delivery.mp.microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 *.debian.org
+*.ftp.acc.umu.se
+ftp.acc.umu.se
+*.debian-cd.repulsive.eu
+debian-cd.repulsive.eu
+*.debian.inf.tu-dresden.de
+debian.inf.tu-dresden.de
+*.debian.netcologne.de
+debian.netcologne.de
