@@ -11,3 +11,4 @@ amupdatedl5.microsoft.com
 dl.delivery.mp.microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
+*.debian.org
