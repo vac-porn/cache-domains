@@ -16,3 +16,4 @@ officecdn.microsoft.com.edgesuite.net
 *.debian-cd.repulsive.eu
 *.debian.inf.tu-dresden.de
 *.debian.netcologne.de
+gemmei.ftp.acc.umu.se
